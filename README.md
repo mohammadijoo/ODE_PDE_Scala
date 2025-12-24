@@ -325,7 +325,7 @@ where $k &gt; 0$ is a gain.
 
 ### 3) Boundary layer to reduce chattering
 
-The ideal sign function can cause chattering (high-frequency switching) in practice. A common mitigation is to replace sign$(s)$ with a continuous saturation function:
+The ideal sign function can cause chattering (high-frequency switching) in practice. A common mitigation is to replace $sign(s)$ with a continuous saturation function:
 
 $$
 \mathrm{sat}(z) =
