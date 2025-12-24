@@ -665,9 +665,9 @@ If you have a walkthrough video for this Scala repository, place the link here.
 
 <!-- Replace with your real YouTube URL and thumbnail when available. -->
 
-<a href="https://www.youtube.com/watch?v=YOUR_VIDEO_ID" target="_blank">
+<a href="https://www.youtube.com/watch?v=sNCxkrdFH3s" target="_blank">
   <img
-    src="https://i.ytimg.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg"
+    src="https://i.ytimg.com/vi/sNCxkrdFH3s/maxresdefault.jpg"
     alt="ODE/PDE in Scala - Implementation Tutorial"
     style="max-width: 100%; border-radius: 10px; box-shadow: 0 6px 18px rgba(0,0,0,0.18); margin-top: 0.5rem;"
   />
